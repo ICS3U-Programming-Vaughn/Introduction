@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\bin\Debug\HelloWorldVaughn.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\bin\Debug\HelloWorldVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\bin\Debug\HelloWorldVaughn.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.FrmHelloWorld.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\DoVaughn (s419702)\Introduction\HelloWorldVaughn\HelloWorldVaughn\obj\Debug\HelloWorldVaughn.pdb
